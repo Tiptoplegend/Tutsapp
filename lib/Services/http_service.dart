@@ -5,9 +5,7 @@ class HTTPService {
     return _singleton;
   }
 
-  // HTTPService._internal(){
-
-  // };
+  HTTPService._internal();
 
   Future<void> setup(String? bearerToken) async {}
 }
