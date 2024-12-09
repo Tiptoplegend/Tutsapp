@@ -40,7 +40,7 @@ class _LoginPageState extends State<Loginpage> {
     return const Text(
       "Recipe Book",
       style: TextStyle(
-        fontSize: 25,
+        fontSize: 85,
         fontWeight: FontWeight.w300,
       ),
     );
